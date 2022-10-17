@@ -5,7 +5,7 @@
 ### Hey there! 👋
 
 I'm a third year student at Erasmushogeschool Brussel doing my best to make cool projects! 🚀
-<div id="header" float="left">
+<div id="header" float="left" style="text-align:center;">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias-VdC&show_icons=true&theme=tokyonight" alt="">
   <img width="30%" src="https://github-readme-stats.vercel.app/api?username=Matthias-VdC&show_icons=true&theme=tokyonight" alt"">
 </div>

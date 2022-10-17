@@ -10,8 +10,4 @@ I'm a third year student at Erasmushogeschool Brussel doing my best to make cool
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias-VdC&show_icons=true&theme=tokyonight" alt="">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Matthias-VdC&show_icons=true&theme=tokyonight" alt"">
-  <br>
-  <a href="https://github.com/Matthias-VdC/iot-ai-werkstuk-matthias">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matthias-VdC&repo=iot-ai-werkstuk-matthias&show_icons=true&theme=tokyonight" >
-  </a>
 </div>

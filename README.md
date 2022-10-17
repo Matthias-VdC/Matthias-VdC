@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
+</div>
+
 ### Hey there! 👋
 
 I'm a third year student at Erasmushogeschool Brussel doing my best to make cool projects! 🚀

@@ -5,8 +5,9 @@
 ### Hey there! 👋
 
 I'm a third year student at Erasmushogeschool Brussel doing my best to make cool projects! 🚀
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias-VdC&show_icons=true&theme=tokyonight)
-
+<div id="header" align="center" style="text-align: center;">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthias-VdC&show_icons=true&theme=tokyonight)
+</div>
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Matthias-VdC&show_icons=true&theme=tokyonight" />
